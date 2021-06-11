@@ -1,3 +1,38 @@
+# eCommerce Site
+
+This is the start of the UI for an eCommerce site, as a project for Professor Hamachi's CIS193 course.
+
+## Questions
+
+#### What were some of the struggles and accomplishments that you experienced during this project?
+
+I couldn't make it go live from my Github page. I may have to swap out react-router-dom's <BrowserRouter /> for <HashRouter /> and use window.location.hash instead of history.
+I still have a long way to go getting comfortable with CSS Grid and Flexbox.
+
+#### Are you planning to continue building on your project after this class? If so, how?
+
+With more time, I would like to build out the mobile layout, create views for the client to add their products, implement a better search, add a form to the cart and handle billing, make a database to manage stock... and so much more. Most of all, I'd like to start from scratch and write everything cleaner, making more of the application reusable (especially styles!).
+
+#### What did you learn from this experience?
+
+As always, it becomes abundantly clear how difficult it is to switch between the modes of designing/critiquing a page, and coding it.
+
+#### What advice would you give to future students in the CIS program at PCC?
+
+Don’t enroll in other classes. Give yourself enough time to treat the class as a starting point and go beyond what is required to actually learn the material. Ultimately, what you learn is up to you.
+
+#### How do you intend to use what you have learned so far?
+
+I would like to further build out my projects, and my Github page to have a good portfolio.
+
+#### How can you use your skills to give back to your community?
+
+I’ve started a small collection of blog posts, and would like to add a section to my Github page to show them. I’d like to have more cheatsheet-style pages, both for myself, and to offer to anyone else who needs them.
+
+#### How can your project help you in the future?
+
+An eCommerce website is a good addition to a portfolio to show to potential employers.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -7,10 +7,10 @@ import {
   Typography,
 } from "@material-ui/core";
 import data from "../data.json";
-import { makeStyles } from "@material-ui/styles";
-import { useHistory } from "react-router-dom";
 import Layout from "../components/Layout";
 import { constants } from "../constants";
+import { makeStyles } from "@material-ui/styles";
+import { useHistory } from "react-router-dom";
 
 const useStyles = makeStyles((theme) => ({
   root: { margin: `${constants.spacing(1)}px` },

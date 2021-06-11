@@ -8,7 +8,6 @@ const CartService = {
   addToCart(sku) {
     const oldCart = this.getCart();
     const newCart = uniq([...oldCart, sku]);
-    // instead of adding the product.id you should be adding the sku that is defined on the state
     sessionStorage.setItem("cart", JSON.stringify(newCart));
   },
   clear() {
