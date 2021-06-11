@@ -1,0 +1,46 @@
+[
+  {
+    "tags": ["tiger eye", "earrings", "bead", "sterling silver"],
+    "name": "Tiger Eye Beaded Earrings",
+    "id": "78c72584-9eb7-4695-a2bb-de65d9a20432",
+    "price": 21.99,
+    "description": "lorem ipsum blah this item is super great",
+    "updatedAt": "2021-06-08T06:07:27.360Z",
+    "types": [
+      {
+        "SKU": "1aa",
+        "inStock": 2,
+        "color": "blue",
+        "image": "https://picsum.photos/300/400?a"
+      },
+      {
+        "SKU": "1ab",
+        "inStock": 4,
+        "color": "orange",
+        "image": "https://picsum.photos/300/400?b"
+      }
+    ]
+  },
+  {
+    "tags": ["garnet", "necklace", "sterling silver"],
+    "name": "Garnet Necklace",
+    "id": "a0b74aeb-f960-4930-99c3-459ec3f1a88f",
+    "price": 35.99,
+    "description": "lorem ipsum blah this item is super great",
+    "updatedAt": "2021-06-08T06:07:27.360Z",
+    "types": [
+      {
+        "SKU": "2aa",
+        "inStock": 3,
+        "color": "purple",
+        "image": "https://picsum.photos/300/400?c"
+      },
+      {
+        "SKU": "2ac",
+        "inStock": 5,
+        "color": "yellow",
+        "image": "https://picsum.photos/300/400?d"
+      }
+    ]
+  }
+]
